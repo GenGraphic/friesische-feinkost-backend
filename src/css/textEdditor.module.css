@@ -1,0 +1,25 @@
+.bkg {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.322);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+.cont {
+    width: 30%;
+    background-color: #FFF;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10000;
+    padding: 10px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.641);
+    margin-bottom: 15px;
+}

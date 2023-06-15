@@ -1,0 +1,17 @@
+.textBox {
+    height: 150px;
+    overflow-y: scroll;
+}
+.inputFiled {
+    margin-top: 10px;
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid #8c8c8c;
+}
+.textArea {
+    margin-top: 10px;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #8c8c8c;
+}

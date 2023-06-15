@@ -1,0 +1,13 @@
+.body {
+    border-bottom: 5px solid #000;
+    margin-bottom: 20px;
+}
+.links {
+    text-decoration: none;
+    color: #000;
+}
+.links:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    color: #000;
+}
